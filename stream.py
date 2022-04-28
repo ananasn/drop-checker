@@ -134,4 +134,4 @@ if __name__ == '__main__':
             print(color.is_yellow(), color.is_blue())
             frame = detector.get_frame_box()
 
-        viewer.show(cropped)
+            viewer.show(cropped)
