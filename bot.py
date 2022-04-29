@@ -2,7 +2,7 @@ import telebot
 import sqlite3 as sq
 
 
-TOKEN = '5369965152:AAFAPCZoXo3jvu2al3dCfMCPtio24unTw1U'
+TOKEN = 'YOUR_TOKEN'
 
 
 class DataBase:
